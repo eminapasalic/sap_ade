@@ -1,4 +1,4 @@
-<h1 align="center">🏢 Systeme, Anwendungen und Produkte </h1>
+<h1 align="center"> Systeme, Anwendungen und Produkte </h1>
 
 <p align="center">
   <b>End-to-end developed business management system</b><br>
@@ -25,7 +25,7 @@ This project includes complete technical documentation:
 
 
 
-# 🚀 KEY HIGHLIGHTS
+#  KEY HIGHLIGHTS
 
 * Full system built from scratch
 * Covers complete SDLC
@@ -35,7 +35,7 @@ This project includes complete technical documentation:
 
 
 
-# 🧠 DEVELOPMENT PROCESS
+#  DEVELOPMENT PROCESS
 
 This project follows a complete and structured development workflow:
 
@@ -118,7 +118,7 @@ This project follows a complete and structured development workflow:
 
 ---
 
-# 🏗 SYSTEM ARCHITECTURE
+#  SYSTEM ARCHITECTURE
 
 The system is designed using a modular and scalable architecture:
 
@@ -131,7 +131,7 @@ The system is designed using a modular and scalable architecture:
 
 ---
 
-# 🗄 DATABASE DESIGN
+#  DATABASE DESIGN
 
 * Relational database structure
 * Optimized schema for business processes
@@ -140,7 +140,7 @@ The system is designed using a modular and scalable architecture:
 
 ---
 
-# 🧪 TESTING
+#  TESTING
 
 * Unit tests implemented for core modules
 * Ensured reliability of business logic
@@ -148,7 +148,7 @@ The system is designed using a modular and scalable architecture:
 
 ---
 
-# 🐳 DEPLOYMENT & CONTAINERIZATION
+#  DEPLOYMENT & CONTAINERIZATION
 
 * Application deployed in production-ready environment
 * Docker used for containerization
