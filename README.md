@@ -22,6 +22,7 @@ The system was developed from scratch, covering the entire software development 
 # 📚 DOCUMENTATION
 
 This project includes complete technical documentation:
+[SAP-dokumentacija.pdf](https://github.com/user-attachments/files/27022101/SAP-dokumentacija.pdf)
 
 
 
@@ -175,12 +176,4 @@ The system is designed using a modular and scalable architecture:
 ## Calendar page
 
 <img width="872" height="607" alt="one" src="https://github.com/user-attachments/assets/86714196-bcf5-47fb-9571-95e6bac472fc" />
-
-
-
-
-
-[SAP-dokumentacija.pdf](https://github.com/user-attachments/files/27021992/SAP-dokumentacija.pdf)
-
-
 
